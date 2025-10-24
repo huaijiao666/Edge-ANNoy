@@ -4,7 +4,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/huaijiao666/Edge-ANNoy?style=social)](https://github.com/huaijiao666/Edge-ANNoy/network/members)
 [![License](https://img.shields.io/github/license/huaijiao666/Edge-ANNoy)](https://github.com/huaijiao666/Edge-ANNoy/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-<!-- You can add more badges as needed, e.g., CI/CD status, documentation status -->
 
 ## 1. Project Introduction
 
