@@ -1,6 +1,6 @@
 # Edge-ANNoy: Enabling Efficient Light ANN Framework for Remote Sensing Image Retrieval on Storage-Constrained Edge Devices
 
-[![License](https://img.shields.io/github/license/YourOrg/Edge-ANNoy)](https://github.com/YourOrg/Edge-ANNoy/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/huaijiao666/Edge-ANNoy)](https://github.com/huaijiao666/Edge-ANNoy/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 <!-- 您可以根据需要添加更多徽章，如 CI/CD 状态、文档状态等 -->
 
@@ -18,7 +18,6 @@ Edge-ANNoy 是一个创新的近似最近邻搜索（ANNS）框架，专为存�
 *   **基于二元锚点优化的平衡分区机制**:
     *   引入了一种新颖的优化算法，以在树构建过程中改善分区平衡。
     *   通过选择大致平分数据子集的锚点对，并微调超平面偏移量，有效缓解了树不平衡导致的性能退化，平衡了检索效率和召回精度。
-*   **索引结构存储**: 支持将构建好的树结构（节点信息和叶子节点数据ID）存储到文本文件中。
 *   **经过全面边缘环境验证**: 在 GUN、Hi-UCD 和 MillionAID 三个大规模遥感数据集上，通过严格的资源预算实验，验证了 Edge-ANNoy 在存储效率和推理速度上的显著优势，同时保持了有竞争力的检索精度。
 
 ## 3. 安装
