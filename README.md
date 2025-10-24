@@ -26,8 +26,8 @@ This architectural shift reduces the model’s space complexity from $O(t_n(dN/T
 ### 3.1 Environment Requirements
 
 *   Python 3.8 or higher
-*   pip (Python package installer)
-*   PyTorch (It is highly recommended to install the CUDA-enabled version for optimal performance. Please refer to the [PyTorch official website](https://pytorch.org/get-started/locally/) for installation guides.)
+*   pip 
+*   PyTorch 
 
 ### 3.2 Dependency Installation
 
