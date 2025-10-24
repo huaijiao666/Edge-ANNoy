@@ -1,7 +1,5 @@
 # Edge-ANNoy: Enabling Efficient Light ANN Framework for Remote Sensing Image Retrieval on Storage-Constrained Edge Devices
 
-[![GitHub Stars](https://img.shields.io/github/stars/YourOrg/Edge-ANNoy?style=social)](https://github.com/YourOrg/Edge-ANNoy/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/YourOrg/Edge-ANNoy?style=social)](https://github.com/YourOrg/Edge-ANNoy/network/members)
 [![License](https://img.shields.io/github/license/YourOrg/Edge-ANNoy)](https://github.com/YourOrg/Edge-ANNoy/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 <!-- 您可以根据需要添加更多徽章，如 CI/CD 状态、文档状态等 -->
